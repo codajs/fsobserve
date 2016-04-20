@@ -1,0 +1,11 @@
+{
+  "name": "fsobserve",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "author": "Casper Beyer (http://caspervonb.com)",
+  "main": "lib/fsobserve.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
